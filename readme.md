@@ -3,12 +3,6 @@
 # Emanuel Nunes
 Backend • Devtools • Automação • Mecatrônica
 
-<a href="https://epixel.com.br/emanuel-nunes">Portfólio</a> •
-<a href="https://github.com/Capman002">GitHub</a> •
-<a href="https://www.linkedin.com/in/SEU-LINK/">LinkedIn</a>
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Capman002&label=Views&color=0e75b6&style=flat" alt="Profile views" />
 <a href="https://github.com/Capman002?tab=followers">
   <img src="https://img.shields.io/github/followers/Capman002?label=Followers&style=social" alt="GitHub followers" />
