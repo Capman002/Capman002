@@ -13,7 +13,7 @@ Backend • Devtools • Automação • Mecatrônica
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-iota-black-69.vercel.app/api?username=Capman002&show_icons=true&theme=transparent&hide_border=true&custom_title=Emanuel%20Nunes" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-iota-black-69.vercel.app/api/top-langs/?username=Capman002&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-iota-black-69.vercel.app/api/top-langs/?username=Capman002&layout=compact&theme=transparent&hide_border=true&v=2&cache_seconds=120" alt="Top languages" />
 
 </div>
 
